@@ -5,6 +5,11 @@ body {
   background-color: #758190;
 }
 
+.main-content {
+  max-width: 1200px;
+  margin-inline: auto;
+}
+
 #tentacles {
   width: 50px;
 }
